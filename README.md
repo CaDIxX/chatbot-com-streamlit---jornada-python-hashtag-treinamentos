@@ -14,6 +14,6 @@ Este projeto é um Chatbot interativo que utiliza a API do GPT-4o para responder
 
 ## Como rodar o projeto
 1. Clone o repositório.
-2. Instale as dependências: `pip install streamlit openai`
+2. Instale as dependências em um ambiente virtual: `pip install streamlit openai`
 3. Adicione sua chave da API da OpenAI no código.
 4. Execute o comando: `streamlit run main.py`
