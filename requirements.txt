@@ -1,0 +1,4 @@
+Bibliotecas que eu usei para o projeto:
+
+  streamlit(para criar o site)
+  openai(usar a api da OpenAI para conversar com IA)
